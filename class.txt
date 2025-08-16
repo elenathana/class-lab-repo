@@ -1,0 +1,1 @@
+initial text for practice git diff
